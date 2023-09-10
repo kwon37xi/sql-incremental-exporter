@@ -1,2 +1,2 @@
-# sql-timebased-exporter
-Run SQL yearly/monthly/daily/hourly/.. then export as csv/tsv/xlsx
+# sql-incremental-exporter
+Run SQL yearly/monthly/daily/hourly/number.. then export as csv/tsv/xlsx
